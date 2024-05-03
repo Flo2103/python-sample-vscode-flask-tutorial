@@ -3,5 +3,5 @@ trigger:
 
 steps:
 - script: |
-    echo Hello World
-  displayName: 'Build Go application'
+    echo Hello World !!!
+  displayName: 'Show Hello World'
